@@ -1,4 +1,7 @@
 # LibreRecall
+
+ATTENTION!!! This version has been discontinued and is no longer in development. For an updated and improved version, please use LibreRecall II: https://github.com/Samuobe/LibreRecall-II
+
 ![logo](https://github.com/IlNonoP/LibreRecall/assets/172937845/798030f6-af36-4c81-bf69-e86b3ee37ab2)
 
 Hello! This is an alternative for Linux to Microsoft Recall! This project was born because OpenRecall didn't work for me (https://github.com/openrecall/openrecall) 
